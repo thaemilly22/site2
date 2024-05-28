@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("img/Design\ sem\ nome\ \(3\).png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
@@ -115,6 +115,14 @@ body {
 .lista__item {
     font-size: 32px;
     color: var(--branco-principal);
+}
+
+.imagens{
+    width: 70%;
+}
+
+.imagens_1{
+    width: 85%;
 }
 
 .rodape {
